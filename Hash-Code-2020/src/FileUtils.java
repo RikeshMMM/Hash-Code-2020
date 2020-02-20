@@ -2,9 +2,9 @@ import java.io.BufferedReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class FileReader {
+public class FileUtils {
 
-    static String fileName = "";
+    static String fileName = "input.txt";
     static String separator = "";
 
     public static void readFile() {
