@@ -1,10 +1,16 @@
-import java.util.ArrayList;
-
 public class Library {
-	int id;
-	int noOfBooks;
-	ArrayList<Book> Book = new ArrayList<Book>();
-	int signUpTime;
-	int booksPerDay;
-	boolean isScanned;
+	public int id;
+	public int[] booksId;
+	public int signUpTime;
+	public int booksPerDay;
+	public int booksInLibrary;
+
+
+	public Library(int id, int signUpTime, int booksPerDay, int booksInLibrary) {
+		this.id = id;
+		this.signUpTime = signUpTime;
+		this.booksPerDay = booksPerDay;
+		this.booksInLibrary = booksInLibrary;
+		booksId = new int[booksInLibrary];
+	}
 }
