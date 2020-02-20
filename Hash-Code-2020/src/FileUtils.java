@@ -42,6 +42,9 @@ public class FileUtils {
                 for (int i1 = 0; i1 < booksInLib.length; i1++) {
                     Main.libraries.get(i).booksId[i1] = Integer.parseInt(booksInLib[i1]);
                 }
+                Main.libraries.get(Main.libraries.size()-1).addBookstoList();
+
+
             }
 //            while ((line = br.readLine()) != null) {
 //

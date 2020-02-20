@@ -1,0 +1,104 @@
+<component name="libraryTable">
+  <library name="_ant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/bcprov-ext-jdk14-1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/ehcache-2.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/fuzzywuzzy-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/icepdf-core-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/javax.transaction.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_ant" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_cucumber" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_j2ee" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_junitee" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_junitx" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_netscape" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_oracle" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_pmd" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_postgres" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_qa" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/activemq" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/anttask" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/commons" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/hibernate" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/imageio-ext-1.1.13-jars" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/imgscalr-4.2" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/IntegrationProject" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/iptec" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext_5.5.3" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/j2ee" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/jersey" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/joda-time-2.10.5" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/json" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/junit" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/log4j" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/notification" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/opencsv" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/opensso" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/PDFBox" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/pdfRenderer" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/physhun" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/poi" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/quartz" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/spring" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/velocity" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_qa" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/iptec" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext_5.5.3" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/pdfRenderer" />
+      <root url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/spring" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_ant" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_cucumber" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_j2ee" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_junitee" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_junitx" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_netscape" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_oracle" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_pmd" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_postgres" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_qa" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/activemq" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/anttask" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/commons" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/hibernate" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/imageio-ext-1.1.13-jars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/imgscalr-4.2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/IntegrationProject" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/iptec" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext_5.5.3" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/j2ee" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/jersey" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/joda-time-2.10.5" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/json" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/junit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/log4j" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/notification" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/opencsv" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/opensso" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/PDFBox" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/pdfRenderer" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/physhun" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/poi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/quartz" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/spring" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/velocity" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/xml" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/_qa" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/iptec" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/itext_5.5.3" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/pdfRenderer" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../dadesk/DADeskAPI_1.5.33/lib/spring" recursive="false" type="SOURCES" />
+  </library>
+</component>
