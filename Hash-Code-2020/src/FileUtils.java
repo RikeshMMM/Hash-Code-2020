@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class FileUtils {
 
-    static String inputFileName = "input.txt";
+    static String inputFileName = "a_example.txt";
     static String separator = "";
 
     static String outputFileName = "output.txt";
