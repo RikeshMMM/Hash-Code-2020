@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Date;
 
 public class FileUtils {
 
@@ -32,6 +33,7 @@ public class FileUtils {
             }
 
             for (int i = 0; i < Main.totalLibraries; i++) {
+                System.out.println("still reading"+ new Date());
                 line = br.readLine();
                 String[] libInput = line.split(separator);
 

@@ -1,4 +1,4 @@
-import org.apache.xpath.operations.Bool;
+//import org.apache.xpath.operations.Bool;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -16,6 +16,12 @@ public class Main {
 	public static void main(String[] args) {
 
 		FileUtils.readFile();
+
+		//update library scores
+		for (Library library : libraries) {
+			library.libraryScore = Utils.libraryScore(library);
+		}
+
 
 		/*
 		//order libraries by library score
@@ -35,6 +41,7 @@ public class Main {
 		int copyMaxScanningDays = maxScanningDays;
 
 		Collections.sort(libraries);
+		Collections.reverse(libraries);
 		ArrayList<Library> librariesToPrint = new ArrayList<Library>();
 		for (Library library : libraries) {
 			if (maxScanningDays == 0) {
@@ -56,7 +63,7 @@ public class Main {
 			if (copyMaxScanningDays > 0 && bit.hasNext()) {
 				int remainingdays = copyMaxScanningDays;
 				int booksToBePrinted = libraryToPrint.booksPerDay * remainingdays;
-				if (booksToBePrinted > libraryToPrint.books.size()) {
+				if (booksToBePrinted > libraryToPrint.books.size() || booksToBePrinted < 0) {
 					booksToBePrinted = libraryToPrint.books.size();
 				}
 				line = line + Integer.toString(booksToBePrinted);

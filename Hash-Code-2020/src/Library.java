@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Library implements Comparable<Library>{
 	public int id;
@@ -27,6 +28,8 @@ public class Library implements Comparable<Library>{
 				}
 			}
 		}
+		Collections.sort(books);
+		Collections.reverse(books);
 	}
 
 	@Override
